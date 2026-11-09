@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Nisha Razzaq** — a first‑year Computer Science student at the University of the Punjab.  
+I'm **Nisha Razzaq** — a second‑year Computer Science student at the University of the Punjab.  
 I’m passionate about building my foundation in programming and exploring how code can solve real‑world problems.  
 
 ### 🚀 What I'm Working On
@@ -10,7 +10,8 @@ I’m passionate about building my foundation in programming and exploring how c
 
 ### 🌱 What I'm Learning
 - Programming fundamentals & Object‑Oriented Programming  
-- Data Structures & Algorithms (DSA)  
+- Data Structures & Algorithms (DSA)
+- Data base management 
 - Web development basics (HTML, CSS, JavaScript)  
 
 ### 💼 Internship Experience
@@ -37,4 +38,4 @@ I love reading books 📚 — they inspire both my creativity and problem‑solv
 ### 📫 How to Reach Me
 - Email: **nisharazzaq345@gmail.com**  
 - GitHub: [nisha-razzaq](https://github.com/nisha-razzaq)  
-- LinkedIn: *(add your LinkedIn link here for recruiters)*  
+- LinkedIn: https://www.linkedin.com/in/nisha-razzaq/  
